@@ -19,4 +19,12 @@ th, td {
    .footer-link:hover {
        color: darkviolet;
    }
+a {
+    text-decoration: none;
+    color: crimson;
+}
 
+a:hover {
+    color: darkviolet;
+    text-decoration: underline; /* При наведении подчеркивание будет появляться — это стильно */
+}
