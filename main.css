@@ -11,3 +11,12 @@ th, td {
     padding: 10px;
     background-color: blue;
 }
+.footer-link {
+       text-decoration: none;
+       color: crimson;
+   }
+
+   .footer-link:hover {
+       color: darkviolet;
+   }
+
